@@ -1,0 +1,447 @@
+01/01/2022 16:08:19:  test
+01/01/2022 16:08:19:  test2
+01/01/2022 16:08:19:  1
+01/01/2022 16:08:22:  updated wallbox status; soc 97.0, status 1
+01/01/2022 16:08:52:  test
+01/01/2022 16:08:52:  test2
+01/01/2022 16:08:52:  1
+01/01/2022 16:08:56:  updated wallbox status; soc 97.0, status 1
+01/01/2022 16:10:02:  test
+01/01/2022 16:10:02:  test2
+01/01/2022 16:15:02:  test
+01/01/2022 16:15:02:  test2
+01/01/2022 16:20:02:  test
+01/01/2022 16:20:02:  test2
+01/01/2022 16:25:02:  test
+01/01/2022 16:28:07:  test
+01/01/2022 16:28:18:  test
+01/01/2022 16:28:46:  test
+01/01/2022 16:28:47:  test291.0
+01/01/2022 16:30:02:  test
+01/01/2022 16:30:02:  test291.0
+01/01/2022 16:33:18:  test
+01/01/2022 16:33:19:  test291.0
+01/01/2022 16:33:19:  1
+01/01/2022 16:33:22:  updated wallbox status; soc 91.0, status 0
+01/01/2022 16:35:06:  updated wallbox status; soc 89.0, status 1
+01/01/2022 16:40:06:  updated wallbox status; soc 87.0, status 0
+01/01/2022 16:45:12:  updated wallbox status; soc 85.0, status 0
+01/01/2022 16:55:03:  wallbox not updated because manual mode
+01/01/2022 17:00:03:  wallbox not updated because manual mode
+01/01/2022 17:05:12:  updated wallbox status; soc 78.0, status 1
+01/01/2022 17:10:09:  updated wallbox status; soc 74.0, status 0
+01/01/2022 17:15:03:  wallbox not updated because manual mode
+01/01/2022 17:20:11:  updated wallbox status; soc 71.0, status 1
+01/01/2022 17:20:20:  updated wallbox status; soc 71.0, status 1
+01/01/2022 17:25:02:  wallbox not updated because manual mode
+01/01/2022 17:29:03:  updated wallbox status; soc 67.0, status 1
+01/01/2022 17:30:08:  updated wallbox status; soc 66.0, status 1
+01/01/2022 17:35:03:  wallbox not updated because manual mode
+01/01/2022 17:36:16:  updated wallbox status; soc 65.0, status 1
+01/01/2022 17:36:50:  updated wallbox status; soc 65.0, status 0
+01/01/2022 17:40:09:  updated wallbox status; soc 64.0, status 1
+01/01/2022 17:45:09:  updated wallbox status; soc 63.0, status 1
+01/01/2022 17:50:09:  updated wallbox status; soc 62.0, status 1
+01/01/2022 17:55:06:  updated wallbox status; soc 60.0, status 1
+01/01/2022 18:00:06:  updated wallbox status; soc 59.0, status 1
+01/01/2022 18:05:05:  updated wallbox status; soc 57.0, status 1
+01/01/2022 18:10:05:  updated wallbox status; soc 55.0, status 1
+01/01/2022 18:15:06:  updated wallbox status; soc 53.0, status 1
+01/01/2022 18:20:06:  updated wallbox status; soc 51.0, status 1
+01/01/2022 18:25:06:  updated wallbox status; soc 49.0, status 1
+01/01/2022 18:30:05:  updated wallbox status; soc 48.0, status 1
+01/01/2022 18:35:06:  updated wallbox status; soc 47.0, status 1
+01/01/2022 18:40:06:  updated wallbox status; soc 46.0, status 1
+01/01/2022 18:45:06:  updated wallbox status; soc 45.0, status 1
+01/01/2022 18:50:06:  updated wallbox status; soc 44.0, status 1
+01/01/2022 18:55:05:  updated wallbox status; soc 43.0, status 1
+01/01/2022 19:00:05:  updated wallbox status; soc 43.0, status 1
+01/01/2022 19:05:06:  updated wallbox status; soc 42.0, status 1
+01/01/2022 19:10:06:  updated wallbox status; soc 41.0, status 1
+01/01/2022 19:15:06:  updated wallbox status; soc 40.0, status 1
+01/01/2022 19:20:06:  updated wallbox status; soc 40.0, status 1
+01/01/2022 19:25:06:  updated wallbox status; soc 39.0, status 1
+01/01/2022 19:30:06:  updated wallbox status; soc 38.0, status 1
+01/01/2022 19:35:06:  updated wallbox status; soc 37.0, status 1
+01/01/2022 19:40:06:  updated wallbox status; soc 37.0, status 1
+01/01/2022 19:45:06:  updated wallbox status; soc 36.0, status 1
+01/01/2022 19:50:06:  updated wallbox status; soc 35.0, status 1
+01/01/2022 19:55:06:  updated wallbox status; soc 34.0, status 1
+01/01/2022 20:00:06:  updated wallbox status; soc 34.0, status 1
+01/01/2022 20:05:06:  updated wallbox status; soc 33.0, status 1
+01/01/2022 20:10:06:  updated wallbox status; soc 32.0, status 1
+01/01/2022 20:15:06:  updated wallbox status; soc 32.0, status 1
+01/01/2022 20:20:06:  updated wallbox status; soc 31.0, status 1
+01/01/2022 20:25:06:  updated wallbox status; soc 30.0, status 1
+01/01/2022 20:30:06:  updated wallbox status; soc 29.0, status 1
+01/01/2022 20:35:06:  updated wallbox status; soc 28.0, status 1
+01/01/2022 20:40:06:  updated wallbox status; soc 28.0, status 1
+01/01/2022 20:45:06:  updated wallbox status; soc 27.0, status 1
+01/01/2022 20:50:06:  updated wallbox status; soc 26.0, status 1
+01/01/2022 20:55:06:  updated wallbox status; soc 26.0, status 1
+01/01/2022 21:00:05:  updated wallbox status; soc 25.0, status 1
+01/01/2022 21:05:05:  updated wallbox status; soc 24.0, status 1
+01/01/2022 21:10:05:  updated wallbox status; soc 23.0, status 1
+01/01/2022 21:15:05:  updated wallbox status; soc 21.0, status 0
+01/01/2022 21:17:41:  updated wallbox status; soc 21.0, status 1
+01/01/2022 21:20:14:  updated wallbox status; soc 18.0, status 0
+01/01/2022 21:25:02:  wallbox not updated because manual mode
+01/01/2022 21:30:03:  wallbox not updated because manual mode
+01/01/2022 21:35:03:  wallbox not updated because manual mode
+01/01/2022 21:40:03:  wallbox not updated because manual mode
+01/01/2022 21:45:03:  wallbox not updated because manual mode
+01/01/2022 21:50:03:  wallbox not updated because manual mode
+01/01/2022 21:55:03:  wallbox not updated because manual mode
+01/01/2022 22:00:03:  wallbox not updated because manual mode
+01/01/2022 22:05:03:  wallbox not updated because manual mode
+02/01/2022 16:30:03:  wallbox not updated because manual mode
+02/01/2022 16:35:03:  wallbox not updated because manual mode
+02/01/2022 16:40:03:  wallbox not updated because manual mode
+02/01/2022 16:45:03:  wallbox not updated because manual mode
+02/01/2022 16:50:03:  wallbox not updated because manual mode
+02/01/2022 16:55:02:  wallbox not updated because manual mode
+02/01/2022 17:00:02:  wallbox not updated because manual mode
+02/01/2022 17:05:02:  wallbox not updated because manual mode
+02/01/2022 17:10:03:  wallbox not updated because manual mode
+02/01/2022 17:15:03:  wallbox not updated because manual mode
+02/01/2022 17:20:03:  wallbox not updated because manual mode
+02/01/2022 17:25:03:  wallbox not updated because manual mode
+02/01/2022 17:30:03:  wallbox not updated because manual mode
+02/01/2022 17:35:03:  wallbox not updated because manual mode
+02/01/2022 17:40:03:  wallbox not updated because manual mode
+02/01/2022 17:45:03:  wallbox not updated because manual mode
+02/01/2022 17:50:02:  wallbox not updated because manual mode
+02/01/2022 17:55:02:  wallbox not updated because manual mode
+02/01/2022 18:00:02:  wallbox not updated because manual mode
+02/01/2022 18:05:03:  wallbox not updated because manual mode
+02/01/2022 18:10:03:  wallbox not updated because manual mode
+02/01/2022 18:15:03:  wallbox not updated because manual mode
+02/01/2022 18:20:03:  wallbox not updated because manual mode
+02/01/2022 18:25:03:  wallbox not updated because manual mode
+02/01/2022 18:30:03:  wallbox not updated because manual mode
+02/01/2022 18:35:03:  wallbox not updated because manual mode
+02/01/2022 18:40:03:  wallbox not updated because manual mode
+02/01/2022 18:45:03:  wallbox not updated because manual mode
+02/01/2022 18:50:02:  wallbox not updated because manual mode
+02/01/2022 18:55:02:  wallbox not updated because manual mode
+02/01/2022 19:00:02:  wallbox not updated because manual mode
+02/01/2022 19:05:03:  wallbox not updated because manual mode
+02/01/2022 19:10:03:  wallbox not updated because manual mode
+02/01/2022 19:15:03:  wallbox not updated because manual mode
+02/01/2022 19:20:03:  wallbox not updated because manual mode
+02/01/2022 19:25:03:  wallbox not updated because manual mode
+02/01/2022 19:30:03:  wallbox not updated because manual mode
+02/01/2022 19:35:03:  wallbox not updated because manual mode
+02/01/2022 19:40:03:  wallbox not updated because manual mode
+02/01/2022 19:45:03:  wallbox not updated because manual mode
+02/01/2022 19:50:02:  wallbox not updated because manual mode
+02/01/2022 19:55:02:  wallbox not updated because manual mode
+02/01/2022 20:00:02:  wallbox not updated because manual mode
+02/01/2022 20:05:03:  wallbox not updated because manual mode
+02/01/2022 20:10:03:  wallbox not updated because manual mode
+02/01/2022 20:15:03:  wallbox not updated because manual mode
+02/01/2022 20:20:03:  wallbox not updated because manual mode
+02/01/2022 20:25:03:  wallbox not updated because manual mode
+02/01/2022 20:30:03:  wallbox not updated because manual mode
+02/01/2022 20:35:03:  wallbox not updated because manual mode
+02/01/2022 20:40:02:  wallbox not updated because manual mode
+02/01/2022 20:45:02:  wallbox not updated because manual mode
+02/01/2022 20:50:02:  wallbox not updated because manual mode
+02/01/2022 20:55:03:  wallbox not updated because manual mode
+02/01/2022 21:00:03:  wallbox not updated because manual mode
+02/01/2022 21:05:03:  wallbox not updated because manual mode
+02/01/2022 21:10:03:  wallbox not updated because manual mode
+02/01/2022 21:15:03:  wallbox not updated because manual mode
+02/01/2022 21:20:03:  wallbox not updated because manual mode
+02/01/2022 21:25:03:  wallbox not updated because manual mode
+02/01/2022 21:30:03:  wallbox not updated because manual mode
+02/01/2022 21:35:02:  wallbox not updated because manual mode
+02/01/2022 21:40:02:  wallbox not updated because manual mode
+02/01/2022 21:45:02:  wallbox not updated because manual mode
+02/01/2022 21:50:03:  wallbox not updated because manual mode
+02/01/2022 21:55:03:  wallbox not updated because manual mode
+02/01/2022 22:00:03:  wallbox not updated because manual mode
+02/01/2022 22:05:03:  wallbox not updated because manual mode
+02/01/2022 22:10:03:  wallbox not updated because manual mode
+02/01/2022 22:15:03:  wallbox not updated because manual mode
+02/01/2022 22:20:03:  wallbox not updated because manual mode
+02/01/2022 22:25:03:  wallbox not updated because manual mode
+02/01/2022 22:30:03:  wallbox not updated because manual mode
+02/01/2022 22:35:02:  wallbox not updated because manual mode
+02/01/2022 22:40:02:  wallbox not updated because manual mode
+02/01/2022 22:45:02:  wallbox not updated because manual mode
+02/01/2022 22:50:02:  wallbox not updated because manual mode
+02/01/2022 22:55:03:  wallbox not updated because manual mode
+02/01/2022 23:00:03:  wallbox not updated because manual mode
+02/01/2022 23:05:03:  wallbox not updated because manual mode
+02/01/2022 23:10:03:  wallbox not updated because manual mode
+02/01/2022 23:15:03:  wallbox not updated because manual mode
+02/01/2022 23:20:03:  wallbox not updated because manual mode
+02/01/2022 23:25:03:  wallbox not updated because manual mode
+02/01/2022 23:30:03:  wallbox not updated because manual mode
+02/01/2022 23:35:02:  wallbox not updated because manual mode
+02/01/2022 23:40:02:  wallbox not updated because manual mode
+02/01/2022 23:45:02:  wallbox not updated because manual mode
+02/01/2022 23:50:03:  wallbox not updated because manual mode
+02/01/2022 23:55:03:  wallbox not updated because manual mode
+03/01/2022 00:00:03:  wallbox not updated because manual mode
+03/01/2022 00:05:03:  wallbox not updated because manual mode
+03/01/2022 00:10:03:  wallbox not updated because manual mode
+03/01/2022 00:15:03:  wallbox not updated because manual mode
+03/01/2022 00:20:03:  wallbox not updated because manual mode
+03/01/2022 00:25:03:  wallbox not updated because manual mode
+03/01/2022 00:30:02:  wallbox not updated because manual mode
+03/01/2022 00:35:02:  wallbox not updated because manual mode
+03/01/2022 00:40:02:  wallbox not updated because manual mode
+03/01/2022 00:45:03:  wallbox not updated because manual mode
+03/01/2022 00:50:03:  wallbox not updated because manual mode
+03/01/2022 00:55:03:  wallbox not updated because manual mode
+03/01/2022 01:00:03:  wallbox not updated because manual mode
+03/01/2022 01:05:03:  wallbox not updated because manual mode
+03/01/2022 01:10:03:  wallbox not updated because manual mode
+03/01/2022 01:15:03:  wallbox not updated because manual mode
+03/01/2022 01:20:03:  wallbox not updated because manual mode
+03/01/2022 01:25:02:  wallbox not updated because manual mode
+03/01/2022 01:30:02:  wallbox not updated because manual mode
+03/01/2022 01:35:02:  wallbox not updated because manual mode
+03/01/2022 01:40:02:  wallbox not updated because manual mode
+03/01/2022 01:45:03:  wallbox not updated because manual mode
+03/01/2022 01:50:03:  wallbox not updated because manual mode
+03/01/2022 01:55:03:  wallbox not updated because manual mode
+03/01/2022 02:00:03:  wallbox not updated because manual mode
+03/01/2022 02:05:03:  wallbox not updated because manual mode
+03/01/2022 02:10:03:  wallbox not updated because manual mode
+03/01/2022 02:15:03:  wallbox not updated because manual mode
+03/01/2022 02:20:02:  wallbox not updated because manual mode
+03/01/2022 02:25:02:  wallbox not updated because manual mode
+03/01/2022 02:30:02:  wallbox not updated because manual mode
+03/01/2022 02:35:02:  wallbox not updated because manual mode
+03/01/2022 02:40:03:  wallbox not updated because manual mode
+03/01/2022 02:45:03:  wallbox not updated because manual mode
+03/01/2022 02:50:03:  wallbox not updated because manual mode
+03/01/2022 02:55:03:  wallbox not updated because manual mode
+03/01/2022 03:00:03:  wallbox not updated because manual mode
+03/01/2022 03:05:03:  wallbox not updated because manual mode
+03/01/2022 03:10:03:  wallbox not updated because manual mode
+03/01/2022 03:15:02:  wallbox not updated because manual mode
+03/01/2022 03:20:02:  wallbox not updated because manual mode
+03/01/2022 03:25:02:  wallbox not updated because manual mode
+03/01/2022 03:30:02:  wallbox not updated because manual mode
+03/01/2022 03:35:03:  wallbox not updated because manual mode
+03/01/2022 03:40:03:  wallbox not updated because manual mode
+03/01/2022 03:45:03:  wallbox not updated because manual mode
+03/01/2022 03:50:03:  wallbox not updated because manual mode
+03/01/2022 03:55:03:  wallbox not updated because manual mode
+03/01/2022 04:00:03:  wallbox not updated because manual mode
+03/01/2022 04:05:03:  wallbox not updated because manual mode
+03/01/2022 04:10:02:  wallbox not updated because manual mode
+03/01/2022 04:15:02:  wallbox not updated because manual mode
+03/01/2022 04:20:02:  wallbox not updated because manual mode
+03/01/2022 04:25:02:  wallbox not updated because manual mode
+03/01/2022 04:30:03:  wallbox not updated because manual mode
+03/01/2022 04:35:03:  wallbox not updated because manual mode
+03/01/2022 04:40:03:  wallbox not updated because manual mode
+03/01/2022 04:45:03:  wallbox not updated because manual mode
+03/01/2022 04:50:03:  wallbox not updated because manual mode
+03/01/2022 04:55:03:  wallbox not updated because manual mode
+03/01/2022 05:00:03:  wallbox not updated because manual mode
+03/01/2022 05:05:02:  wallbox not updated because manual mode
+03/01/2022 05:10:02:  wallbox not updated because manual mode
+03/01/2022 05:15:02:  wallbox not updated because manual mode
+03/01/2022 05:20:02:  wallbox not updated because manual mode
+03/01/2022 05:25:03:  wallbox not updated because manual mode
+03/01/2022 05:30:03:  wallbox not updated because manual mode
+03/01/2022 05:35:03:  wallbox not updated because manual mode
+03/01/2022 05:40:03:  wallbox not updated because manual mode
+03/01/2022 05:45:03:  wallbox not updated because manual mode
+03/01/2022 05:50:03:  wallbox not updated because manual mode
+03/01/2022 05:55:03:  wallbox not updated because manual mode
+03/01/2022 06:00:03:  wallbox not updated because manual mode
+03/01/2022 06:05:03:  wallbox not updated because manual mode
+03/01/2022 06:10:03:  wallbox not updated because manual mode
+03/01/2022 06:15:03:  wallbox not updated because manual mode
+03/01/2022 06:20:03:  wallbox not updated because manual mode
+03/01/2022 06:25:03:  wallbox not updated because manual mode
+03/01/2022 06:30:02:  wallbox not updated because manual mode
+03/01/2022 06:35:02:  wallbox not updated because manual mode
+03/01/2022 06:40:02:  wallbox not updated because manual mode
+03/01/2022 06:45:02:  wallbox not updated because manual mode
+03/01/2022 06:50:03:  wallbox not updated because manual mode
+03/01/2022 06:55:03:  wallbox not updated because manual mode
+03/01/2022 07:00:03:  wallbox not updated because manual mode
+03/01/2022 07:05:03:  wallbox not updated because manual mode
+03/01/2022 07:10:03:  wallbox not updated because manual mode
+03/01/2022 07:15:03:  wallbox not updated because manual mode
+03/01/2022 07:20:03:  wallbox not updated because manual mode
+03/01/2022 07:25:03:  wallbox not updated because manual mode
+03/01/2022 07:30:02:  wallbox not updated because manual mode
+03/01/2022 07:35:02:  wallbox not updated because manual mode
+03/01/2022 07:40:02:  wallbox not updated because manual mode
+03/01/2022 07:45:03:  wallbox not updated because manual mode
+03/01/2022 07:50:03:  wallbox not updated because manual mode
+03/01/2022 07:55:03:  wallbox not updated because manual mode
+03/01/2022 08:00:03:  wallbox not updated because manual mode
+03/01/2022 08:05:03:  wallbox not updated because manual mode
+03/01/2022 08:10:03:  wallbox not updated because manual mode
+03/01/2022 08:15:02:  wallbox not updated because manual mode
+03/01/2022 08:20:02:  wallbox not updated because manual mode
+03/01/2022 08:25:02:  wallbox not updated because manual mode
+03/01/2022 08:30:02:  wallbox not updated because manual mode
+03/01/2022 08:35:03:  wallbox not updated because manual mode
+03/01/2022 08:40:03:  wallbox not updated because manual mode
+03/01/2022 08:45:03:  wallbox not updated because manual mode
+03/01/2022 08:50:03:  wallbox not updated because manual mode
+03/01/2022 08:55:03:  wallbox not updated because manual mode
+03/01/2022 09:00:03:  wallbox not updated because manual mode
+03/01/2022 09:05:03:  wallbox not updated because manual mode
+03/01/2022 09:10:03:  wallbox not updated because manual mode
+03/01/2022 09:15:02:  wallbox not updated because manual mode
+03/01/2022 09:20:03:  wallbox not updated because manual mode
+03/01/2022 09:25:03:  wallbox not updated because manual mode
+03/01/2022 09:30:02:  wallbox not updated because manual mode
+03/01/2022 09:35:02:  wallbox not updated because manual mode
+03/01/2022 09:40:02:  wallbox not updated because manual mode
+03/01/2022 09:45:03:  wallbox not updated because manual mode
+03/01/2022 09:50:03:  wallbox not updated because manual mode
+03/01/2022 09:55:03:  wallbox not updated because manual mode
+03/01/2022 10:00:03:  wallbox not updated because manual mode
+03/01/2022 10:05:03:  wallbox not updated because manual mode
+03/01/2022 10:10:03:  wallbox not updated because manual mode
+03/01/2022 10:15:03:  wallbox not updated because manual mode
+03/01/2022 10:20:03:  wallbox not updated because manual mode
+03/01/2022 10:25:03:  wallbox not updated because manual mode
+03/01/2022 10:30:02:  wallbox not updated because manual mode
+03/01/2022 10:35:02:  wallbox not updated because manual mode
+03/01/2022 10:40:02:  wallbox not updated because manual mode
+03/01/2022 10:45:02:  wallbox not updated because manual mode
+03/01/2022 10:50:03:  wallbox not updated because manual mode
+03/01/2022 10:55:03:  wallbox not updated because manual mode
+03/01/2022 11:00:03:  wallbox not updated because manual mode
+03/01/2022 11:05:03:  wallbox not updated because manual mode
+03/01/2022 11:10:03:  wallbox not updated because manual mode
+03/01/2022 11:15:03:  wallbox not updated because manual mode
+03/01/2022 11:20:03:  wallbox not updated because manual mode
+03/01/2022 11:25:03:  wallbox not updated because manual mode
+03/01/2022 11:30:02:  wallbox not updated because manual mode
+03/01/2022 11:35:02:  wallbox not updated because manual mode
+03/01/2022 11:40:02:  wallbox not updated because manual mode
+03/01/2022 11:45:02:  wallbox not updated because manual mode
+03/01/2022 11:50:03:  wallbox not updated because manual mode
+03/01/2022 11:55:03:  wallbox not updated because manual mode
+03/01/2022 12:00:03:  wallbox not updated because manual mode
+03/01/2022 12:05:03:  wallbox not updated because manual mode
+03/01/2022 12:10:03:  wallbox not updated because manual mode
+03/01/2022 12:15:03:  wallbox not updated because manual mode
+03/01/2022 12:20:03:  wallbox not updated because manual mode
+03/01/2022 12:25:03:  wallbox not updated because manual mode
+03/01/2022 12:30:03:  wallbox not updated because manual mode
+03/01/2022 12:35:03:  wallbox not updated because manual mode
+03/01/2022 12:40:02:  wallbox not updated because manual mode
+03/01/2022 12:45:02:  wallbox not updated because manual mode
+03/01/2022 12:50:02:  wallbox not updated because manual mode
+03/01/2022 12:55:02:  wallbox not updated because manual mode
+03/01/2022 13:00:03:  wallbox not updated because manual mode
+03/01/2022 13:05:03:  wallbox not updated because manual mode
+03/01/2022 13:10:03:  wallbox not updated because manual mode
+03/01/2022 13:15:03:  wallbox not updated because manual mode
+03/01/2022 13:20:03:  wallbox not updated because manual mode
+03/01/2022 13:25:03:  wallbox not updated because manual mode
+03/01/2022 13:30:03:  wallbox not updated because manual mode
+03/01/2022 13:35:03:  wallbox not updated because manual mode
+03/01/2022 13:40:03:  wallbox not updated because manual mode
+03/01/2022 13:45:03:  wallbox not updated because manual mode
+03/01/2022 13:50:02:  wallbox not updated because manual mode
+03/01/2022 13:55:02:  wallbox not updated because manual mode
+03/01/2022 14:00:02:  wallbox not updated because manual mode
+03/01/2022 14:05:03:  wallbox not updated because manual mode
+03/01/2022 14:10:03:  wallbox not updated because manual mode
+03/01/2022 14:15:03:  wallbox not updated because manual mode
+03/01/2022 14:20:03:  wallbox not updated because manual mode
+03/01/2022 14:25:03:  wallbox not updated because manual mode
+03/01/2022 14:30:03:  wallbox not updated because manual mode
+03/01/2022 14:35:03:  wallbox not updated because manual mode
+03/01/2022 14:40:03:  wallbox not updated because manual mode
+03/01/2022 14:45:03:  wallbox not updated because manual mode
+03/01/2022 14:50:02:  wallbox not updated because manual mode
+03/01/2022 14:55:02:  wallbox not updated because manual mode
+03/01/2022 15:00:02:  wallbox not updated because manual mode
+03/01/2022 15:05:03:  wallbox not updated because manual mode
+03/01/2022 15:10:03:  wallbox not updated because manual mode
+03/01/2022 15:15:03:  wallbox not updated because manual mode
+03/01/2022 15:20:03:  wallbox not updated because manual mode
+03/01/2022 15:25:03:  wallbox not updated because manual mode
+03/01/2022 15:30:03:  wallbox not updated because manual mode
+03/01/2022 15:35:03:  wallbox not updated because manual mode
+03/01/2022 15:40:03:  wallbox not updated because manual mode
+03/01/2022 15:45:03:  wallbox not updated because manual mode
+03/01/2022 15:50:03:  wallbox not updated because manual mode
+03/01/2022 15:55:03:  wallbox not updated because manual mode
+03/01/2022 16:00:02:  wallbox not updated because manual mode
+03/01/2022 16:05:02:  wallbox not updated because manual mode
+03/01/2022 16:10:02:  wallbox not updated because manual mode
+03/01/2022 16:15:02:  wallbox not updated because manual mode
+03/01/2022 16:20:03:  wallbox not updated because manual mode
+03/01/2022 16:25:03:  wallbox not updated because manual mode
+03/01/2022 16:30:03:  wallbox not updated because manual mode
+03/01/2022 16:35:03:  wallbox not updated because manual mode
+03/01/2022 16:40:03:  wallbox not updated because manual mode
+03/01/2022 16:45:03:  wallbox not updated because manual mode
+03/01/2022 16:50:03:  wallbox not updated because manual mode
+03/01/2022 16:55:03:  wallbox not updated because manual mode
+03/01/2022 17:00:03:  wallbox not updated because manual mode
+03/01/2022 17:05:03:  wallbox not updated because manual mode
+03/01/2022 17:10:02:  wallbox not updated because manual mode
+03/01/2022 17:15:02:  wallbox not updated because manual mode
+03/01/2022 17:20:02:  wallbox not updated because manual mode
+03/01/2022 17:25:02:  wallbox not updated because manual mode
+03/01/2022 17:30:03:  wallbox not updated because manual mode
+03/01/2022 17:35:03:  wallbox not updated because manual mode
+03/01/2022 17:40:03:  wallbox not updated because manual mode
+03/01/2022 17:45:03:  wallbox not updated because manual mode
+03/01/2022 17:50:03:  wallbox not updated because manual mode
+03/01/2022 17:55:03:  wallbox not updated because manual mode
+03/01/2022 18:00:03:  wallbox not updated because manual mode
+03/01/2022 18:05:03:  wallbox not updated because manual mode
+03/01/2022 18:10:02:  wallbox not updated because manual mode
+03/01/2022 18:15:02:  wallbox not updated because manual mode
+03/01/2022 18:20:02:  wallbox not updated because manual mode
+03/01/2022 18:25:02:  wallbox not updated because manual mode
+03/01/2022 18:30:03:  wallbox not updated because manual mode
+03/01/2022 18:35:03:  wallbox not updated because manual mode
+03/01/2022 18:40:03:  wallbox not updated because manual mode
+03/01/2022 18:45:03:  wallbox not updated because manual mode
+03/01/2022 18:50:03:  wallbox not updated because manual mode
+03/01/2022 18:55:03:  wallbox not updated because manual mode
+03/01/2022 19:00:03:  wallbox not updated because manual mode
+03/01/2022 19:05:02:  wallbox not updated because manual mode
+03/01/2022 19:10:02:  wallbox not updated because manual mode
+03/01/2022 19:15:02:  wallbox not updated because manual mode
+03/01/2022 19:20:02:  wallbox not updated because manual mode
+03/01/2022 19:25:03:  wallbox not updated because manual mode
+03/01/2022 19:30:03:  wallbox not updated because manual mode
+03/01/2022 19:35:03:  wallbox not updated because manual mode
+03/01/2022 19:40:03:  wallbox not updated because manual mode
+03/01/2022 19:45:03:  wallbox not updated because manual mode
+03/01/2022 19:50:03:  wallbox not updated because manual mode
+03/01/2022 19:55:03:  wallbox not updated because manual mode
+03/01/2022 20:00:03:  wallbox not updated because manual mode
+03/01/2022 20:05:02:  wallbox not updated because manual mode
+03/01/2022 20:10:02:  wallbox not updated because manual mode
+03/01/2022 20:15:02:  wallbox not updated because manual mode
+03/01/2022 20:20:02:  wallbox not updated because manual mode
+03/01/2022 20:25:03:  wallbox not updated because manual mode
+03/01/2022 20:30:03:  wallbox not updated because manual mode
+03/01/2022 20:35:03:  wallbox not updated because manual mode
+03/01/2022 20:40:03:  wallbox not updated because manual mode
+03/01/2022 20:45:03:  wallbox not updated because manual mode
+03/01/2022 20:50:03:  wallbox not updated because manual mode
+03/01/2022 21:05:03:  wallbox not updated because manual mode
+03/01/2022 21:10:03:  wallbox not updated because manual mode
+03/01/2022 21:20:03:  wallbox not updated because manual mode
+03/01/2022 21:25:03:  wallbox not updated because manual mode
+03/01/2022 21:30:03:  wallbox not updated because manual mode
+03/01/2022 21:35:03:  wallbox not updated because manual mode
+03/01/2022 21:40:03:  wallbox not updated because manual mode
+03/01/2022 21:45:03:  wallbox not updated because manual mode
+03/01/2022 21:55:02:  wallbox not updated because manual mode
+03/01/2022 22:00:03:  wallbox not updated because manual mode
