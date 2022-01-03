@@ -31,7 +31,10 @@ def deactivate_wallbox(reason="unspecified"):
 
 def get_wallbox_status():
     result = exec_switch_command("getswitchstate")
-    return int(result[0])
+    if result.contains("invalid")
+        return 100
+    elif
+        return int(result[0])
 
 
 def exec_switch_command(command, verbose=False):
@@ -82,7 +85,7 @@ def get_status_str():
         status_str = "off"
     elif status == 1:
         status_str = "on"
-    else :
+    else:
         status_str = "error"
 
     status_str = "{}:  SOC: {}; Mode: {}; Status: {}".format(timestamp, soc, operation_mode, status_str)
