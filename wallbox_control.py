@@ -31,9 +31,9 @@ def deactivate_wallbox(reason="unspecified"):
 
 def get_wallbox_status():
     result = exec_switch_command("getswitchstate")
-    if result.contains("invalid")
+    if "invalid" in result:
         return 100
-    elif
+    else:
         return int(result[0])
 
 
