@@ -4,9 +4,9 @@ Help()
 {
    # Display Help
    echo "Command line script for executing commands on AVM smarthome switch."
-   echo "IP and login data to switch is configured in script"
+   echo "IP and login data of switch is configured in script"
    echo
-   echo "Syntax: scriptTemplate [-h|v|c]"
+   echo "Syntax: exec_switch_command [-h|v|c]"
    echo "options:"
    echo "h     Print this Help."
    echo "v     Verbose mode."
