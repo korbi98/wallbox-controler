@@ -4,9 +4,9 @@ Help()
 {
    # Display Help
    echo "Command line script for executing commands on AVM smarthome switch."
-   echo "IP and login data of switch is configured in script"
+   echo "IP and login data to switch is configured in script"
    echo
-   echo "Syntax: exec_switch_command [-h|v|c]"
+   echo "Syntax: scriptTemplate [-h|v|c]"
    echo "options:"
    echo "h     Print this Help."
    echo "v     Verbose mode."
@@ -35,10 +35,10 @@ done
 # -----------
 # definitions
 # -----------
-FBF="http://192.168.188.1" # Your FritzBox IP
+FBF="http://192.168.188.1"
 USER="YourUserName"
 PASS="YourPassword"
-AIN="YourAIN" # 11 digit number identifing the switch
+AIN="YourAIN"
 # ---------------
 # fetch challenge
 # ---------------

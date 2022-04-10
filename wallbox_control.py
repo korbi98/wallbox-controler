@@ -2,7 +2,7 @@
 
 from settings import threshold_on, threshold_off, basepath
 from logger import log_event, log_error, log_dev
-from get_soc import get_current_soc, update_plot
+from get_soc import get_current_soc, update_plot, update_weekly_plot
 from pathlib import Path
 import subprocess
 import sys
@@ -19,6 +19,7 @@ def activate_wallbox(reason="unspecified"):
         log_event(ACTIVATION_MSG, reason)
     else:
         log_error("activation failed")
+    return result[0]
 
 
 def deactivate_wallbox(reason="unspecified"):
@@ -27,6 +28,7 @@ def deactivate_wallbox(reason="unspecified"):
         log_event(DEACTIVATION_MSG, reason)
     else:
         log_error("deactivation failed")
+    return result[0]
 
 
 def get_wallbox_status():
@@ -67,14 +69,16 @@ def get_operation_mode():
 
 def update_wallbox(soc):
     update_plot()
+    update_weekly_plot()
     if get_operation_mode():
         if soc > threshold_on and not get_wallbox_status():
             activate_wallbox(AUTO_REASON)
         if soc < threshold_off and get_wallbox_status():
             deactivate_wallbox(AUTO_REASON)
-        log_dev("updated wallbox status; soc {}, status {}".format(soc, get_wallbox_status()))
+        #log_dev("updated wallbox status; soc {}, status {}".format(soc, get_wallbox_status()))
     else:
-        log_dev("wallbox not updated because manual mode")
+        pass
+        #log_dev("wallbox not updated because manual mode")
 
 
 def get_status_str():
@@ -93,22 +97,34 @@ def get_status_str():
     return status_str
 
 
+def exec_activate():
+    res = activate_wallbox(MANUAL_REASON)
+    set_operation_mode(0)
+    return res
+
+def exec_deactivate():
+    res = deactivate_wallbox(MANUAL_REASON)
+    set_operation_mode(0)
+    return res
+    
+def exec_enable_auto():    
+    set_operation_mode(1)
+    log_event(ENABLE_AUTO_MSG, MANUAL_REASON)
+    _, soc = get_current_soc()
+    update_wallbox(soc)
+    
+
 def main():
     args = sys.argv[1:]
     if args[0] == "activate" and not get_wallbox_status():
-        activate_wallbox(MANUAL_REASON)
-        set_operation_mode(0)
+        exec_activate()
     elif args[0] == "deactivate" and get_wallbox_status():
-        deactivate_wallbox(MANUAL_REASON)
-        set_operation_mode(0)
+        exec_deactivate()
     elif args[0] == "auto":
         _, soc = get_current_soc()
         update_wallbox(soc)
     elif args[0] == "enable_auto":
-        set_operation_mode(1)
-        log_event(ENABLE_AUTO_MSG, MANUAL_REASON)
-        _, soc = get_current_soc()
-        update_wallbox(soc)
+        exec_enable_auto()
     elif args[0] == "status":
         get_status_str()
     elif (args[0] != "activate" and args[0] != "deactivate" and args[0] != "auto" and

@@ -6,7 +6,7 @@ def log_event(event, reason):
     now = now = datetime.now()
     time_str = now.strftime("%d/%m/%Y %H:%M:%S")
     with open(Path(logpath) / "event.log", "a") as f:
-        f.write("{}:  {};    Reason: {}\n".format(time_str, event, reason))
+        f.write("{},{},{}\n".format(time_str, event, reason))
 
 
 def log_error(error):
